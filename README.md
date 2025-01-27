@@ -5,5 +5,6 @@ Run the command npm create vite@latest.
 select the framework React.
 choose variant javascript.
 then, cd my-react-app
-npm install will install all the dependecies
+npm install will install all the dependecies.
+To make is responsive for all the devices we used tailwind CSS. 
 
